@@ -1,3 +1,2 @@
 # hello-world
-have a look
-I'm just the fresh,just come here and study.
+I'm the fresh,just come here have a look and study.
